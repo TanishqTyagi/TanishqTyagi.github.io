@@ -1,0 +1,203 @@
+
+body {
+    background-color: #EDEAD0;
+}
+h1 {
+    font-family: "Helvetica Neue";
+}
+h2 {
+    font-family: Avenir;
+}
+p {
+    font-family: Avenir;
+}
+#InformationBullets {
+    font-family: Avenir;
+}
+
+li {
+    font-family: Avenir;
+    text-align: left;
+}
+
+#portfolioImg {
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+}
+
+#highSchoolImg {
+    width: 275px;
+    height: auto;
+    padding-bottom: 50px;
+    padding: 25px;
+}
+#deltaCollegeicon {
+    width: 125px;
+    height: auto;
+    padding-bottom: 25px;
+}
+
+#yacLogo {
+    width: 175px;
+    height: auto;
+    padding-right: 50px;
+}
+.Bio{
+    background-color: #FFCF56;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+.Education {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 30px;
+}
+.MHHS {
+    background-color: #FFCF56;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 450px;
+    height:auto;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.DeltaCollege {
+    background-color: #FFCF56;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-left: 20px;
+    width: 450px;
+    height:auto;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.Schools{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.ExtraCurricularParent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 30px;
+}
+
+.YACParent {
+    background-color: #FFCF56;
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    padding: 25px;
+    max-width: 1200px;
+    height: auto;
+}
+
+.YACChild {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.Tennis {
+    background-color: #FFCF56;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    padding: 30px;
+    max-width: 1200px;
+    height: auto;
+    margin: 30px;
+}
+.TennisChild {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#tennisTeamLogo {
+    border-radius: 20px;
+    width: 800px;
+}
+
+
+.countdown {
+    background-color: #86BAA1;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+
+}
+
+.countdown {
+    font-family: Avenir;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #3AB795;
+    color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.label {
+    font-size: 25px;
+    font-family: Avenir;
+    padding: 7px;
+    align-items: center;
+}
+
+.number {
+    font-size: 32px;
+    font-family: Avenir;
+}
+
+.countdownChild {
+    display: flex;
+    flex-direction: row;
+}
+.countdown{
+    flex-direction: column;
+}
